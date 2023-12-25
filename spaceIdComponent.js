@@ -30,3 +30,5 @@ async function resolveDomainName() {
         document.getElementById('resolvedAddress').textContent = 'Error resolving domain';
     }
 }
+
+// test
